@@ -1,0 +1,30 @@
+C:\Users\tronic's\AppData\Local\Temporary Projects\monudpCsharp\bin\Debug\monudpCsharp.exe
+C:\Users\tronic's\AppData\Local\Temporary Projects\monudpCsharp\bin\Debug\monudpCsharp.pdb
+C:\Users\tronic's\AppData\Local\Temporary Projects\monudpCsharp\obj\x86\Debug\monudpCsharp.Form1.resources
+C:\Users\tronic's\AppData\Local\Temporary Projects\monudpCsharp\obj\x86\Debug\monudpCsharp.Properties.Resources.resources
+C:\Users\tronic's\AppData\Local\Temporary Projects\monudpCsharp\obj\x86\Debug\monudpCsharp.csproj.GenerateResource.Cache
+C:\Users\tronic's\AppData\Local\Temporary Projects\monudpCsharp\obj\x86\Debug\monudpCsharp.exe
+C:\Users\tronic's\AppData\Local\Temporary Projects\monudpCsharp\obj\x86\Debug\monudpCsharp.pdb
+C:\Users\tronic's\documents\visual studio 2010\Projects\monudpCsharp\monudpCsharp\obj\x86\Debug\monudpCsharp.exe
+C:\Users\tronic's\documents\visual studio 2010\Projects\monudpCsharp\monudpCsharp\obj\x86\Debug\monudpCsharp.pdb
+C:\Users\tronic's\documents\visual studio 2010\Projects\monudpCsharp\monudpCsharp\bin\Debug\monudpCsharp.exe
+C:\Users\tronic's\documents\visual studio 2010\Projects\monudpCsharp\monudpCsharp\bin\Debug\monudpCsharp.pdb
+C:\Users\tronic's\documents\visual studio 2010\Projects\monudpCsharp\monudpCsharp\obj\x86\Debug\monudpCsharp.Form1.resources
+C:\Users\tronic's\documents\visual studio 2010\Projects\monudpCsharp\monudpCsharp\obj\x86\Debug\monudpCsharp.Properties.Resources.resources
+C:\Users\tronic's\documents\visual studio 2010\Projects\monudpCsharp\monudpCsharp\obj\x86\Debug\monudpCsharp.csproj.GenerateResource.Cache
+C:\Users\tronic's\Documents\Visual Studio 2010\Projects\monudpCsharp\monudpCsharp\obj\x86\Debug\monudpCsharp.csprojResolveAssemblyReference.cache
+C:\Users\tronic's\documents\visual studio 2010\Projects\monudpCsharp\monudpCsharp\bin\Debug\ZedGraph.dll
+C:\Users\tronic's\documents\visual studio 2010\Projects\monudpCsharp\monudpCsharp\bin\Debug\ZedGraph.xml
+C:\Users\tronic's\documents\visual studio 2010\Projects\monudpCsharp\monudpCsharp\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\tronic's\documents\visual studio 2010\Projects\monudpCsharp\monudpCsharp\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\tronic's\documents\visual studio 2010\Projects\monudpCsharp\monudpCsharp\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\tronic's\documents\visual studio 2010\Projects\monudpCsharp\monudpCsharp\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\tronic's\documents\visual studio 2010\Projects\monudpCsharp\monudpCsharp\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\tronic's\documents\visual studio 2010\Projects\monudpCsharp\monudpCsharp\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\tronic's\documents\visual studio 2010\Projects\monudpCsharp\monudpCsharp\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\tronic's\documents\visual studio 2010\Projects\monudpCsharp\monudpCsharp\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\tronic's\documents\visual studio 2010\Projects\monudpCsharp\monudpCsharp\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\tronic's\documents\visual studio 2010\Projects\monudpCsharp\monudpCsharp\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\tronic's\documents\visual studio 2010\Projects\monudpCsharp\monudpCsharp\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\tronic's\documents\visual studio 2010\Projects\monudpCsharp\monudpCsharp\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\tronic's\documents\visual studio 2010\Projects\monudpCsharp\monudpCsharp\bin\Debug\zh-tw\ZedGraph.resources.dll
